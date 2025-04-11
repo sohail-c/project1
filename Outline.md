@@ -86,7 +86,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | [Insert] | [Insert] |
+| Dom | IC | Since there are existing templates that need to be used, Integration and configuration methods would be the best choice. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -101,7 +101,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | [Insert] | [Insert] |
+| Dom | ID | Since the stakeholder is a friend, relaxed on time, and wants to make changes in the future; it makes sense to make a usable software and add features later on in newer versions. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -116,7 +116,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | [Insert] | [Insert] |
+| Dom | WM | Since the software needs to be very reliable and needs to last for over a decade; the waterfall method would be the best choice. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -124,7 +124,6 @@ Each scenerio will have an opinion and justification by each group member and a 
 
 ### Group Decision
 [Insert]
-
 ---
 
 ### Scenerio #4
