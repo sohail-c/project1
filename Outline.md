@@ -130,7 +130,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | [Insert] | [Insert] |
+| Dom | ID | Since this program is ran in the cloud and the project has to be done in 18 months, it would be best get a running system right away and add features later since it is easy to update in the cloud. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -145,7 +145,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | [Insert] | [Insert] |
+| Dom | WM | Since this software is on embedded systems, it would make sense to take the time to perfect the software since it will be impossible to update and fix any bugs. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -160,7 +160,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | [Insert] | [Insert] |
+| Dom |  | [Insert] |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
