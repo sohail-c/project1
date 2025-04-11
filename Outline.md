@@ -86,7 +86,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | IC | Since there are existing templates that need to be used, Integration and configuration methods would be the best choice. |
+| Dom | IC | Since there are existing templates that need to be used, integration and configuration methods would be the best choice. The stakeholders want a familiar software and reusing past code would make the most sense. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -101,7 +101,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | ID | Since the stakeholder is a friend, relaxed on time, and wants to make changes in the future; it makes sense to make a usable software and add features later on in newer versions. |
+| Dom | ID | Since the stakeholder is a friend, relaxed on time, and wants to make changes in the future; it makes sense to make a usable software and add features later on in newer versions. There is room for improvement to the software in the future in terms of time and functionality. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -116,7 +116,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | WM | Since the software needs to be very reliable and needs to last for over a decade; the waterfall method would be the best choice. |
+| Dom | WM | Since the software needs to be very reliable and needs to last for over a decade; the waterfall method would be the best choice. Extra effort and time is needed to make sure previous mistakes are not recreated. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -130,7 +130,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | ID | Since this program is ran in the cloud and the project has to be done in 18 months, it would be best get a running system right away and add features later since it is easy to update in the cloud. |
+| Dom | ID | Since this program is ran in the cloud and the project has to be done in 18 months, it would be best get a running system right away and add features later since it is easy to update in the cloud. There is also a small team working on this project so there isn't enough manpower to use the waterfall method efficiently. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -145,7 +145,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | WM | Since this software is on embedded systems, it would make sense to take the time to perfect the software since it will be impossible to update and fix any bugs. |
+| Dom | WM | Since this software is on embedded systems, it would make sense to take the time to perfect the software since it will be impossible to update and fix any bugs. The software also plays an important role in society with traffic updates, so the program has to run flawlessly which requires more time. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -160,7 +160,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom |  | [Insert] |
+| Dom | ID | This process is the best choice to get feedback from stakeholders that are connected to the team member that holds relatioships with them. Also, since there is pressure for qucik turnaround time, this would put a working product into the stakeholders' hands faster. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
@@ -175,7 +175,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
-| Dom | [Insert] | [Insert] |
+| Dom | ID | Since this is not a big company that needs this program and the team is really small, it would be best to approach this in a more agile way.The team would be working close together and would be developing new versions during the duration of the process. |
 | Sohail | [Insert] | [Insert] |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
