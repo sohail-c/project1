@@ -119,7 +119,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 | Dom | WM | Since the software needs to be very reliable and needs to last for over a decade; the waterfall method would be the best choice. Extra effort and time is needed to make sure previous mistakes are not recreated. |
 | Sohail | Waterfall | This piece of software is a good fit for being developed with the waterfall model. The fact that the software is for a nuclear power plant means that there are definitely a lot of requirements and features it **needs** to have because of regulations and the like. The more methodical step-by-step approach of the waterfall model also helps ensure that nothing slips through the cracks while developing it. Lastly, the software needs to last a long time, which is one of the strengths of the waterfall model.|
 | Joseph | [Insert] | [Insert] |
-| Justin | [Insert] | [Insert] |
+| Justin | WM | Since this is a large-scale project, involving many safety concerns, specialized knowledge, and coordination with different stakeholders (the utility company, scientists, power plant operators, subcontractors), it would be best to use the waterfall model. This model also works best because the software is expected to last for a long time and does not need regular updates. |
 | Shagufta | [Insert] | [Insert] |
 
 ### Group Decision
