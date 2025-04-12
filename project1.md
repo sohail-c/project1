@@ -148,7 +148,7 @@ Each scenario will have an opinion and justification by each group member and a 
 | Dom | WM | Since this software is on embedded systems, it would make sense to take the time to perfect the software since it will be impossible to update and fix any bugs. The software also plays an important role in society with traffic updates, so the program has to run flawlessly which requires more time. |
 | Sohail | Waterfall | Given the embedded systems nature of the software it makes sense to develop it using the waterfall model. The inability to easily update the software once it is deployed means it is important to get the software as perfected as possible before deploying it, which is a strength of the waterfall model. |
 | Joseph | [Insert] | [Insert] |
-| Justin | [Insert] | [Insert] |
+| Justin | WF | Since this is a large-scale project involving embedded systems in sensors and cameras for government infrastructure, as well as communication with different stakeholders (transportation officials, the company who hired you), it would be best to use the waterfall model. |
 | Shagufta | [Insert] | [Insert] |
 
 ### Group Decision
