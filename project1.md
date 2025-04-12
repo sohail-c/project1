@@ -1,9 +1,9 @@
 # **Project 1**
 ## Description
-The purpose of this project is to learn about Software Development Lifecycles (SLDC) and selcecting the appropriate model dependent on particular senerios. This project will be performed with a group and presented on the GitHub platform.
+The purpose of this project is to learn about Software Development Lifecycles (SLDC) and selcecting the appropriate model dependent on particular scenarios. This project will be performed with a group and presented on the GitHub platform.
 
  ## Types of SLDC
- These are the software development lifecycles that will be chosen to best fit each scenerio.
+ These are the software development lifecycles that will be chosen to best fit each scenario.
  | SLDC | Description |
  | -----| ------------|
  | Waterfall Model (WM) | Takes specification, development, validation, and evolution into seperate process phases. |
@@ -11,7 +11,7 @@ The purpose of this project is to learn about Software Development Lifecycles (S
  | Integration and Configuration (IC) | Relies on reusable code and focuses on configuring and integration to the system. |
 
 ## Scenerios
-These are the senerios that will be matched to the appropriate SLDC.
+These are the scenarios that will be matched to the appropriate SLDC.
 1. **New e- Commerce Site**
 
     PerfectApparel wants to launch a new e-Commerce site to sell clothes, shoes, and accessories. The company wants to provide an online shopping experience that will attract customers to come back to the site. For example, customers may select their own colors, create their customized design, and quickly find matching outfits. 
@@ -80,9 +80,9 @@ Your company has developed similar solutions in the transportation domain on num
 >> - More casual setting
 
 ## Individual Opinions and Group Desicion
-Each scenerio will have an opinion and justification by each group member and a final group decision.
+Each scenario will have an opinion and justification by each group member and a final group decision.
 
-### Scenerio #1
+### Scenario #1
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
@@ -97,7 +97,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 
 ---
 
-### Scenerio #2
+### Scenario #2
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
@@ -112,7 +112,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 
 ---
 
-### Scenerio #3
+### Scenario #3
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
@@ -126,7 +126,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 [Insert]
 ---
 
-### Scenerio #4
+### Scenario #4
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
@@ -141,7 +141,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 
 ---
 
-### Scenerio #5
+### Scenario #5
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
@@ -156,7 +156,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 
 ---
 
-### Scenerio #6
+### Scenario #6
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
@@ -171,7 +171,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 
 ---
 
-### Scenerio #7
+### Scenario #7
 #### Individual Opinions
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
