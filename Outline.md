@@ -87,7 +87,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
 | Dom | IC | Since there are existing templates that need to be used, integration and configuration methods would be the best choice. The stakeholders want a familiar software and reusing past code would make the most sense. |
-| Sohail | [Insert] | [Insert] |
+| Sohail | Integration and configuration | This is an ideal scenario for the IC process model as the development team already has their own templates and their team includes developers with previous experience with the companies projects. Using their templates and existing architecture also means that there is consistency between all their sites, making them easier to maintain.
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
 | Shagufta | [Insert] | [Insert] |
