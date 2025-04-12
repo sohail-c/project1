@@ -163,7 +163,7 @@ Each scenario will have an opinion and justification by each group member and a 
 | Dom | ID | This process is the best choice to get feedback from stakeholders that are connected to the team member that holds relatioships with them. Also, since there is pressure for qucik turnaround time, this would put a working product into the stakeholders' hands faster. |
 | Sohail | Incremental development | Given the requirement of quickly launching a version of the product, the incremental model seems like it fits the best. The evolving requirements is another reason to go with the incremental model as it allows the developers to more easily implement new requirements and incorporate feedback from users. |
 | Joseph | [Insert] | [Insert] |
-| Justin | [Insert] | [Insert] |
+| Justin | ID | For this project, I would choose an incremental model because of the small-scale, the evolving set of requirements, and the need to produce a version of the games quickly. There also aren’t many stakeholders to coordinate with since your team member participates at educational conferences and works with the stakeholders. |
 | Shagufta | [Insert] | [Insert] |
 
 ### Group Decision
