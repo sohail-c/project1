@@ -102,7 +102,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
 | Dom | ID | Since the stakeholder is a friend, relaxed on time, and wants to make changes in the future; it makes sense to make a usable software and add features later on in newer versions. There is room for improvement to the software in the future in terms of time and functionality. |
-| Sohail | [Insert] | [Insert] |
+| Sohail | Incremental development | Incremental development makes a lot of sense as the model to go with for this scenario. The stakeholder is clear about what features they would like first and are features they would like in the feature. This suits the incremental model as you can create the site with the minimal features the stakeholder wants at launch and then iterate over time, adding more features.|
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
 | Shagufta | [Insert] | [Insert] |
