@@ -133,7 +133,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 | Dom | ID | Since this program is ran in the cloud and the project has to be done in 18 months, it would be best get a running system right away and add features later since it is easy to update in the cloud. There is also a small team working on this project so there isn't enough manpower to use the waterfall method efficiently. |
 | Sohail | Waterfall | This one is a little less straightforward. I think all three models fit it well to a certain extent. However, I think even given the cloud connectivity of the software and the timeline it fits the the waterfall model best. The clearly defined specifications from the stakeholders and, given the stakeholder and nature of the software, likely want for it to be long-lasting and reliable are two reasons the waterfall model would be appropriate for this product. |
 | Joseph | [Insert] | [Insert] |
-| Justin | [Insert] | [Insert] |
+| Justin | ID/WF | Based on the team size and the estimated time of completion, this seems to be a small to medium-scale project, which would be best to complete with an incremental, Agile model. Although, it may be best to use waterfall, since the project has thorough specifications and involves working with a government agency. |
 | Shagufta | [Insert] | [Insert] |
 
 ### Group Decision
