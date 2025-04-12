@@ -146,7 +146,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
 | Dom | WM | Since this software is on embedded systems, it would make sense to take the time to perfect the software since it will be impossible to update and fix any bugs. The software also plays an important role in society with traffic updates, so the program has to run flawlessly which requires more time. |
-| Sohail | [Insert] | [Insert] |
+| Sohail | Waterfall | Given the embedded systems nature of the software it makes sense to develop it using the waterfall model. The inability to easily update the software once it is deployed means it is important to get the software as perfected as possible before deploying it, which is a strength of the waterfall model. |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
 | Shagufta | [Insert] | [Insert] |
@@ -161,7 +161,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
 | Dom | ID | This process is the best choice to get feedback from stakeholders that are connected to the team member that holds relatioships with them. Also, since there is pressure for qucik turnaround time, this would put a working product into the stakeholders' hands faster. |
-| Sohail | [Insert] | [Insert] |
+| Sohail | Incremental development | Given the requirement of quickly launching a version of the product, the incremental model seems like it fits the best. The evolving requirements is another reason to go with the incremental model as it allows the developers to more easily implement new requirements and incorporate feedback from users. |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
 | Shagufta | [Insert] | [Insert] |
@@ -176,7 +176,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 | Team Member | SDLC | Justification |
 |-------------| ---  | --------------|
 | Dom | ID | Since this is not a big company that needs this program and the team is really small, it would be best to approach this in a more agile way.The team would be working close together and would be developing new versions during the duration of the process. |
-| Sohail | [Insert] | [Insert] |
+| Sohail | Incremental development | The small team size is a sign this project may be a good fit for the more agile incremental model. Additionally the incremental model allows deployment of the product fairly early which means its impact can be seen earlier which can lead to more money/grants earlier as well. |
 | Joseph | [Insert] | [Insert] |
 | Justin | [Insert] | [Insert] |
 | Shagufta | [Insert] | [Insert] |
