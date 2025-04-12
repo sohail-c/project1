@@ -89,7 +89,7 @@ Each scenerio will have an opinion and justification by each group member and a 
 | Dom | IC | Since there are existing templates that need to be used, integration and configuration methods would be the best choice. The stakeholders want a familiar software and reusing past code would make the most sense. |
 | Sohail | Integration and configuration | This is an ideal scenario for the IC process model as the development team already has their own templates and their team includes developers with previous experience with the companies projects. Using their templates and existing architecture also means that there is consistency between all their sites, making them easier to maintain.
 | Joseph | [Insert] | [Insert] |
-| Justin | [Insert] | [Insert] |
+| Justin | IC | It’s a small-scale project and a team that works closely together. Also, an incremental model works better for this type of project because the website can be continually updated and improved based on customer requests. Since most of the work can be done in-house, scheduling for the development of the Java interpreter should not interfere with the rest of the process. |
 | Shagufta | [Insert] | [Insert] |
 
 ### Group Decision
