@@ -92,8 +92,8 @@ Each scenario will have an opinion and justification by each group member and a 
 | Justin | ID | It’s a small-scale project and a team that works closely together. Also, an incremental model works better for this type of project because the website can be continually updated and improved based on customer requests. Since most of the work can be done in-house, scheduling for the development of the Java interpreter should not interfere with the rest of the process. |
 | Shagufta | [Insert] | [Insert] |
 
-### Group Decision
-[Insert]
+### Group Decision: Agile with elements of Integration and Configuration
+We chose Agile to be the main SDLC for this proposed software, with elements of Integration and Configuration. Agile mainly comes from the evolving, online nature of the software. Being able to deliver on new and improved features based on customer request can happen within this model without scheduling issues. Elements of Integration and Configuration come in due to the preexistence of templates, and the stakeholders desire for familiar and reusable code.
 
 ---
 
@@ -107,8 +107,8 @@ Each scenario will have an opinion and justification by each group member and a 
 | Justin | ID | Since this is a small, individual project for a friend, that also needs to be updated over time, I would choose an incremental, Agile model and work closely with them to get feedback throughout the development process, as well as for any future updates or maintenance. |
 | Shagufta | [Insert] | [Insert] |
 
-### Group Decision
-[Insert]
+### Group Decision: Incremental Development
+We decided on Incremental Development. The stakeholder is familiar with us, flexible with timelines, and open to making changes or adding features in the future, which aligns with the Incremental approach of building a core version with features being added overtime.
 
 ---
 
@@ -122,8 +122,8 @@ Each scenario will have an opinion and justification by each group member and a 
 | Justin | WM | Since this is a large-scale project, involving many safety concerns, specialized knowledge, and coordination with different stakeholders (the utility company, scientists, power plant operators, subcontractors), it would be best to use the waterfall model. This model also works best because the software is expected to last for a long time and does not need regular updates. |
 | Shagufta | [Insert] | [Insert] |
 
-### Group Decision
-[Insert]
+### Group Decision: Waterfall
+We decided on the Waterfall model. The software is being developed for a nuclear power plant, which means it must be extremely reliable, long-lasting, and compliant with detailed and strict regulations. The set and stone, chronological nature of Waterfall ensures that the requirements are defined from the beginning, reducing the risk of error. This structured approach is also ideal for this large-scale project with multiple stakeholders and little room for evolution.
 ---
 
 ### Scenario #4
@@ -136,8 +136,8 @@ Each scenario will have an opinion and justification by each group member and a 
 | Justin | ID/WF | Based on the team size and the estimated time of completion, this seems to be a small to medium-scale project, which would be best to complete with an incremental, Agile model. Although, it may be best to use waterfall, since the project has thorough specifications and involves working with a government agency. |
 | Shagufta | [Insert] | [Insert] |
 
-### Group Decision
-[Insert]
+### Group Decision: Waterfall
+We decided on the Waterfall model for this software. The requirements are thoroughly detailed, coming from a government agency, which means there is little room for evolving features or change in scope. This aligns with Waterfall's strength of defining requirements clearly and early. The software is also expected to be reliable and last a long time, which is complimented by Waterfall's emphasis on extensive planning, documentation and testing.
 
 ---
 
@@ -151,8 +151,8 @@ Each scenario will have an opinion and justification by each group member and a 
 | Justin | WF | Since this is a large-scale project involving embedded systems in sensors and cameras for government infrastructure, as well as communication with different stakeholders (transportation officials, the company who hired you), it would be best to use the waterfall model. |
 | Shagufta | [Insert] | [Insert] |
 
-### Group Decision
-[Insert]
+### Group Decision: Waterfall
+We decided on Waterfall for this piece of software. The software is being developed for embedded systems, which will likely involve sensors and cameras used in traffic infrastructure. This would make updating the systems difficult if it is needed. This caters to the Waterfall life cycle where thorough planning, documentation and testing are conducted before deploying. The system plays an imporant role in society, and therefore should be reliable and error free.
 
 ---
 
@@ -166,8 +166,8 @@ Each scenario will have an opinion and justification by each group member and a 
 | Justin | ID | For this project, I would choose an incremental model because of the small-scale, the evolving set of requirements, and the need to produce a version of the games quickly. There also aren’t many stakeholders to coordinate with since your team member participates at educational conferences and works with the stakeholders. |
 | Shagufta | [Insert] | [Insert] |
 
-### Group Decision
-[Insert]
+### Group Decision: Incremental Development with Elements of SCRUM
+We ended up deciding on Incremental Development with integrated parts of SCRUM for this piece of software. The fast-paced timeline and pressure to deliver a working product quickly make it essential to release a basic version early and then build upon it through continuous updates. This approach allows the team to gather feedback from stakeholders early on, especially since one team member already has strong relationships with them. The evolving requirements, small team, and need for frequent iterations are the main strengths of Incremental Development.
 
 ---
 
@@ -181,6 +181,6 @@ Each scenario will have an opinion and justification by each group member and a 
 | Justin | ID (scalable) | Based on the size of the grant, and the function of the software to address global challenges, I would consider this a large-scale project; however, it's a very small team. I think this scenario lends itself to an incremental development model because of the team size, but it needs to be scalable to meet the growth of the company and the evolution of the project. The software is also for large-scale problems, so careful planning is needed to make sure the software is designed properly and functions correctly. |
 | Shagufta | [Insert] | [Insert] |
 
-### Group Decision
-[Insert]
+### Group Decision: Incremental Development
+We decided on Incremental Development for this piece of software. The small team size and collaborative nature plays to the strengths of Incremental Development, as it allows for close coordination, frequent updatesm and future software evolution. The nature of this projects funding (relying on positive impact to secure further grants), implies the need to release a basic functional version, and update as needed, which Incremental Development allows for. Since the software aims to take on large-scale global challenges, upward scalability is a critical factor to consider. The Incremental Model supports this.
 
