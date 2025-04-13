@@ -118,7 +118,7 @@ Each scenario will have an opinion and justification by each group member and a 
 |-------------| ---  | --------------|
 | Dom | WM | Since the software needs to be very reliable and needs to last for over a decade; the waterfall method would be the best choice. Extra effort and time is needed to make sure previous mistakes are not recreated. |
 | Sohail | Waterfall | This piece of software is a good fit for being developed with the waterfall model. The fact that the software is for a nuclear power plant means that there are definitely a lot of requirements and features it **needs** to have because of regulations and the like. The more methodical step-by-step approach of the waterfall model also helps ensure that nothing slips through the cracks while developing it. Lastly, the software needs to last a long time, which is one of the strengths of the waterfall model.|
-| Joseph | [Insert] | [Insert] |
+| Joseph | Waterfall | This is a critical infrastructure software that would last for a decade with well-defined requirements. The long but concrete nature of waterfall helps ensures that the software will be delivered with no problems. |
 | Justin | WM | Since this is a large-scale project, involving many safety concerns, specialized knowledge, and coordination with different stakeholders (the utility company, scientists, power plant operators, subcontractors), it would be best to use the waterfall model. This model also works best because the software is expected to last for a long time and does not need regular updates. |
 | Shagufta | [Insert] | [Insert] |
 
@@ -132,7 +132,7 @@ Each scenario will have an opinion and justification by each group member and a 
 |-------------| ---  | --------------|
 | Dom | ID | Since this program is ran in the cloud and the project has to be done in 18 months, it would be best get a running system right away and add features later since it is easy to update in the cloud. There is also a small team working on this project so there isn't enough manpower to use the waterfall method efficiently. |
 | Sohail | Waterfall | This one is a little less straightforward. I think all three models fit it well to a certain extent. However, I think even given the cloud connectivity of the software and the timeline it fits the the waterfall model best. The clearly defined specifications from the stakeholders and, given the stakeholder and nature of the software, likely want for it to be long-lasting and reliable are two reasons the waterfall model would be appropriate for this product. |
-| Joseph | [Insert] | [Insert] |
+| Joseph | Waterfall | The specifications for this software are thoroughly detailed. The staff are appropriately experienced and there seems to be no possibility of evolving requirements. Waterfall would work best here due to its concrete nature. |
 | Justin | ID/WF | Based on the team size and the estimated time of completion, this seems to be a small to medium-scale project, which would be best to complete with an incremental, Agile model. Although, it may be best to use waterfall, since the project has thorough specifications and involves working with a government agency. |
 | Shagufta | [Insert] | [Insert] |
 
@@ -147,7 +147,7 @@ Each scenario will have an opinion and justification by each group member and a 
 |-------------| ---  | --------------|
 | Dom | WM | Since this software is on embedded systems, it would make sense to take the time to perfect the software since it will be impossible to update and fix any bugs. The software also plays an important role in society with traffic updates, so the program has to run flawlessly which requires more time. |
 | Sohail | Waterfall | Given the embedded systems nature of the software it makes sense to develop it using the waterfall model. The inability to easily update the software once it is deployed means it is important to get the software as perfected as possible before deploying it, which is a strength of the waterfall model. |
-| Joseph | [Insert] | [Insert] |
+| Joseph | Agile or Incremental | This is a system that can be delivered upon in stages with online functionality. The need for updates justifies the use of agile or incremental. Agile specifically will allow for more cross collaboration between developers. |
 | Justin | WF | Since this is a large-scale project involving embedded systems in sensors and cameras for government infrastructure, as well as communication with different stakeholders (transportation officials, the company who hired you), it would be best to use the waterfall model. |
 | Shagufta | [Insert] | [Insert] |
 
