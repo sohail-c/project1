@@ -162,7 +162,7 @@ Each scenario will have an opinion and justification by each group member and a 
 |-------------| ---  | --------------|
 | Dom | ID | This process is the best choice to get feedback from stakeholders that are connected to the team member that holds relatioships with them. Also, since there is pressure for qucik turnaround time, this would put a working product into the stakeholders' hands faster. |
 | Sohail | Incremental development | Given the requirement of quickly launching a version of the product, the incremental model seems like it fits the best. The evolving requirements is another reason to go with the incremental model as it allows the developers to more easily implement new requirements and incorporate feedback from users. |
-| Joseph | [Insert] | [Insert] |
+| Joseph | Agile (Scrum) | The fast-paced nature of this project, the need for simultaneous testing, the small team, and evolving requirements are perfect for the Scrum Agile model. Builds can be delivered to the client in quick fashion as requirements evolve. |
 | Justin | ID | For this project, I would choose an incremental model because of the small-scale, the evolving set of requirements, and the need to produce a version of the games quickly. There also aren’t many stakeholders to coordinate with since your team member participates at educational conferences and works with the stakeholders. |
 | Shagufta | [Insert] | [Insert] |
 
@@ -177,7 +177,7 @@ Each scenario will have an opinion and justification by each group member and a 
 |-------------| ---  | --------------|
 | Dom | ID | Since this is not a big company that needs this program and the team is really small, it would be best to approach this in a more agile way.The team would be working close together and would be developing new versions during the duration of the process. |
 | Sohail | Incremental development | The small team size is a sign this project may be a good fit for the more agile incremental model. Additionally the incremental model allows deployment of the product fairly early which means its impact can be seen earlier which can lead to more money/grants earlier as well. |
-| Joseph | [Insert] | [Insert] |
+| Joseph | ID | For this one specifically, the grant specifies that the team could get further funding based off the positive impact of the software, implying the funding should be used for improving the software in the future. I say incremental because the process for adding features seems more defined. |
 | Justin | ID (scalable) | Based on the size of the grant, and the function of the software to address global challenges, I would consider this a large-scale project; however, it's a very small team. I think this scenario lends itself to an incremental development model because of the team size, but it needs to be scalable to meet the growth of the company and the evolution of the project. The software is also for large-scale problems, so careful planning is needed to make sure the software is designed properly and functions correctly. |
 | Shagufta | [Insert] | [Insert] |
 
