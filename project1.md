@@ -95,6 +95,8 @@ Each scenario will have an opinion and justification by each group member and a 
 ### Group Decision: Agile with elements of Integration and Configuration
 We chose Agile to be the main SDLC for this proposed software, with elements of Integration and Configuration. Agile mainly comes from the evolving, online nature of the software. Being able to deliver on new and improved features based on customer request can happen within this model without scheduling issues. Elements of Integration and Configuration come in due to the preexistence of templates, and the stakeholders desire for familiar and reusable code.
 
+### Alternate Choice: Strictly Integration and Configuration
+One alternate choice we had was a strict Integration and Configuration approach. We mainly decided against this because Agile handles constantly evolving software better.
 ---
 
 ### Scenario #2
@@ -110,6 +112,8 @@ We chose Agile to be the main SDLC for this proposed software, with elements of 
 ### Group Decision: Incremental Development
 We decided on Incremental Development. The stakeholder is familiar with us, flexible with timelines, and open to making changes or adding features in the future, which aligns with the Incremental approach of building a core version with features being added overtime.
 
+### Alternate Choice: Agile
+One alternate choice we had was the Agile model. We decided against this because the evolving nature does not seem as urgent. The chronological nature of ID ensures a more polished final product, while allowing for future updates.
 ---
 
 ### Scenario #3
@@ -124,6 +128,10 @@ We decided on Incremental Development. The stakeholder is familiar with us, flex
 
 ### Group Decision: Waterfall
 We decided on the Waterfall model. The software is being developed for a nuclear power plant, which means it must be extremely reliable, long-lasting, and compliant with detailed and strict regulations. The set and stone, chronological nature of Waterfall ensures that the requirements are defined from the beginning, reducing the risk of error. This structured approach is also ideal for this large-scale project with multiple stakeholders and little room for evolution.
+
+### Alternate Choice: Spiral
+An alternate choice we had for this software was the Spiral model, which was discussed due to it's emphasis on risk analysis. We chose Waterfall over this due to the desire to not repeat the process with iterations, and deliver one solid deliverable at the end.
+
 ---
 
 ### Scenario #4
@@ -138,6 +146,9 @@ We decided on the Waterfall model. The software is being developed for a nuclear
 
 ### Group Decision: Waterfall
 We decided on the Waterfall model for this software. The requirements are thoroughly detailed, coming from a government agency, which means there is little room for evolving features or change in scope. This aligns with Waterfall's strength of defining requirements clearly and early. The software is also expected to be reliable and last a long time, which is complimented by Waterfall's emphasis on extensive planning, documentation and testing.
+
+### Alternate Choice: Incremental Development
+Another choice for this software we decided to pass on was Incremental Development, mainly due to the cloud based nature and scale of the project. We bypassed this because of the detailed requirements that waterfall caters to.
 
 ---
 
@@ -154,6 +165,9 @@ We decided on the Waterfall model for this software. The requirements are thorou
 ### Group Decision: Waterfall
 We decided on Waterfall for this piece of software. The software is being developed for embedded systems, which will likely involve sensors and cameras used in traffic infrastructure. This would make updating the systems difficult if it is needed. This caters to the Waterfall life cycle where thorough planning, documentation and testing are conducted before deploying. The system plays an imporant role in society, and therefore should be reliable and error free.
 
+### Alternate Decision: Spiral
+We were pretty confident about our choice of waterfall for this model due to the embedded nature. Spiral was mentioned due to it having elements of both Waterfall and Incremental.
+
 ---
 
 ### Scenario #6
@@ -169,6 +183,8 @@ We decided on Waterfall for this piece of software. The software is being develo
 ### Group Decision: Incremental Development with Elements of SCRUM
 We ended up deciding on Incremental Development with integrated parts of SCRUM for this piece of software. The fast-paced timeline and pressure to deliver a working product quickly make it essential to release a basic version early and then build upon it through continuous updates. This approach allows the team to gather feedback from stakeholders early on, especially since one team member already has strong relationships with them. The evolving requirements, small team, and need for frequent iterations are the main strengths of Incremental Development.
 
+### Alternate Decision: SCRUM
+An alternate option we discussed was a strictly SCRUM model, which would emphasize the need for testing and evolving requirements. We decided on a mix with the Incremental model because this project would not utilize all aspects of SCRUM.
 ---
 
 ### Scenario #7
@@ -183,4 +199,7 @@ We ended up deciding on Incremental Development with integrated parts of SCRUM f
 
 ### Group Decision: Incremental Development
 We decided on Incremental Development for this piece of software. The small team size and collaborative nature plays to the strengths of Incremental Development, as it allows for close coordination, frequent updatesm and future software evolution. The nature of this projects funding (relying on positive impact to secure further grants), implies the need to release a basic functional version, and update as needed, which Incremental Development allows for. Since the software aims to take on large-scale global challenges, upward scalability is a critical factor to consider. The Incremental Model supports this.
+
+### Alternate Decision: Agile
+Another option we discussed for this software was the Agile model. This is mainly due to it also supporting evolving requirements. We decided against it because we assumed there would be a reasonable amount of time in between versions to warrant the chronological stages of the Waterfall model within Incremental Development.
 
