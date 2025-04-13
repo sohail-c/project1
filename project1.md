@@ -88,7 +88,7 @@ Each scenario will have an opinion and justification by each group member and a 
 |-------------| ---  | --------------|
 | Dom | IC | Since there are existing templates that need to be used, integration and configuration methods would be the best choice. The stakeholders want a familiar software and reusing past code would make the most sense. |
 | Sohail | Integration and configuration | This is an ideal scenario for the IC process model as the development team already has their own templates and their team includes developers with previous experience with the companies projects. Using their templates and existing architecture also means that there is consistency between all their sites, making them easier to maintain.
-| Joseph | [Insert] | [Insert] |
+| Joseph | Agile | This is an online based software that will need new features based on evolving requirements. Agile is best for delivering the core functionality of an ever changing online environment, with the ability to deliver quick updates. Incremental would be a 2nd choice, but that one is locked to chronological stages. |
 | Justin | ID | It’s a small-scale project and a team that works closely together. Also, an incremental model works better for this type of project because the website can be continually updated and improved based on customer requests. Since most of the work can be done in-house, scheduling for the development of the Java interpreter should not interfere with the rest of the process. |
 | Shagufta | [Insert] | [Insert] |
 
@@ -103,7 +103,7 @@ Each scenario will have an opinion and justification by each group member and a 
 |-------------| ---  | --------------|
 | Dom | ID | Since the stakeholder is a friend, relaxed on time, and wants to make changes in the future; it makes sense to make a usable software and add features later on in newer versions. There is room for improvement to the software in the future in terms of time and functionality. |
 | Sohail | Incremental development | Incremental development makes a lot of sense as the model to go with for this scenario. The stakeholder is clear about what features they would like first and are features they would like in the feature. This suits the incremental model as you can create the site with the minimal features the stakeholder wants at launch and then iterate over time, adding more features.|
-| Joseph | [Insert] | [Insert] |
+| Joseph | Agile | This is an online based software, that will gradually need new features based off evolving requirements, specifically the eventual need for online appointments. Agile is best for delivering the core functionality off an ever changing online environment, with the ability to deliver on quick updates. Incremental would be a 2nd choice, but that one is locked to chronological stages. |
 | Justin | ID | Since this is a small, individual project for a friend, that also needs to be updated over time, I would choose an incremental, Agile model and work closely with them to get feedback throughout the development process, as well as for any future updates or maintenance. |
 | Shagufta | [Insert] | [Insert] |
 
