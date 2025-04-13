@@ -96,7 +96,8 @@ Each scenario will have an opinion and justification by each group member and a 
 We chose Agile to be the main SDLC for this proposed software, with elements of Integration and Configuration. Agile mainly comes from the evolving, online nature of the software. Being able to deliver on new and improved features based on customer request can happen within this model without scheduling issues. Elements of Integration and Configuration come in due to the preexistence of templates, and the stakeholders desire for familiar and reusable code.
 
 ### Alternate Choice: Strictly Integration and Configuration
-One alternate choice we had was a strict Integration and Configuration approach. We mainly decided against this because Agile handles constantly evolving software better.
+One alternative we had was the Agile model. We decided against this because the evolving nature does not seem as urgent. The chronological nature of ID ensures a more polished final product, while allowing for future updates.
+
 ---
 
 ### Scenario #2
@@ -114,6 +115,7 @@ We decided on Incremental Development. The stakeholder is familiar with us, flex
 
 ### Alternate Choice: Agile
 One alternate choice we had was the Agile model. We decided against this because the evolving nature does not seem as urgent. The chronological nature of ID ensures a more polished final product, while allowing for future updates.
+
 ---
 
 ### Scenario #3
@@ -185,6 +187,7 @@ We ended up deciding on Incremental Development with integrated parts of SCRUM f
 
 ### Alternate Decision: SCRUM
 An alternate option we discussed was a strictly SCRUM model, which would emphasize the need for testing and evolving requirements. We decided on a mix with the Incremental model because this project would not utilize all aspects of SCRUM.
+
 ---
 
 ### Scenario #7
